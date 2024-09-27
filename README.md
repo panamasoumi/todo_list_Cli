@@ -6,7 +6,11 @@ Features
 
 
 Add Tasks: Easily add new tasks to your todo list.
+
 View Tasks: Display all tasks with their status (completed or not).
+
 Complete Tasks: Mark tasks as completed.
+
 Delete Tasks: Remove tasks from your list.
+
 Persistent Storage: All tasks are saved in a JSON file (tasks.json) for persistent data management.
